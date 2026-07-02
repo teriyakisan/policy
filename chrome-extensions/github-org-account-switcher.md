@@ -43,5 +43,8 @@ This extension makes **no external network requests**. It contains no analytics,
 - `storage`: used to save the user settings described above.
 - `https://github.com/*`: operates only on github.com, to detect the current account and drive the native switcher UI.
 
-## Contact
-For questions about this policy, please open an issue in the source repository linked above.
+## Contact / お問い合わせ
+本ポリシーに関するお問い合わせは、以下のフォームよりご連絡ください。
+For questions about this policy, please contact us via the form below.
+
+[お問い合わせフォーム / Contact form](https://forms.gle/UK5KqpzessUp7EJE7)
